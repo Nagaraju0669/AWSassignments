@@ -1,0 +1,9 @@
+PROJECT 1:
+Deploying a web server in Windows instance
+IIS Windows Server IP
+http://35.154.137.46/
+
+PROJECT 2:
+Deploying a web server in Windows instance
+nginx server IP
+http://13.235.2.23/
